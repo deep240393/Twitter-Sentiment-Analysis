@@ -1,0 +1,16 @@
+ 
+ accident  3
+ bus  1
+ expensive  13
+ friendly  3
+ immigrant  1
+ park  2
+ parking  12
+ parks  1
+ pollution  2
+ safe  2
+bad school 3
+good school 1
+long waiting 2
+not safe 1
+snow storm 3

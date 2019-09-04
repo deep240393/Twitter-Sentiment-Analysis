@@ -1,0 +1,5 @@
+ 
+ friendly  2
+ park  2
+ parking  3
+ safe  1
