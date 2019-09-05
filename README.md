@@ -61,8 +61,3 @@ Sentiment Analysis is also performed in phases, algorithm can be devised as:
 • The result of search and stream of tweets is stored in the CSV format. (ex. search.csv and stream.csv)
 • For mapreduce program I have used input file in the .txt format and result of the output is stored in the map_reduce_op_stream1.txt (for 1st streaming) and map_reduce_op_stream2.txt (for 2nd streaming)
 • I have created a separate folder where I have provided all the necessary screenshot related to this assignment.
-
-
-###### Note
-
-Code snippets are combined and stored in main.py file. Dictionary files used to compare sentiment and decide score are stored in lexicon_dictionary directory. tweets_senti53.csv file is the output file after extracting polarity of tweets.
