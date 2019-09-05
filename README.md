@@ -25,6 +25,60 @@ In this problem, set of tweets is to be extracted from the twitter database and 
 ➔sudo ./spark-2.4.0-bin-hadoop2.7/sbin/start-slave.sh spark://ip-172-31-16-68.us-east-2.compute.internal:7077 (slave)
 • By running sudo ./spark-2.4.0-bin-hadoop2.7/bin/pyspark command we can start new spark session.
 
+## Getting Started
+
+Prerequisites
+
+1.  Python is a requirement for installing Jupyter Notebook
+
+```
+https://www.python.org/downloads/windows/
+
+```
+
+2.  Install PIP
+
+```
+Python get-pip.py
+
+```
+
+3.  Upgrade pip
+
+```
+pip3 install --upgrade pip
+
+```
+
+4.  Installing : Jupyter Notebook
+
+```
+pip3 install jupyter
+
+```
+
+### Installing
+
+1.  Install Tweepy
+
+```
+pip install tweepy
+
+```
+
+2.  Install Scikit Learn
+
+```
+pip install -U scikit-learn
+
+```
+
+3.  Install Pyspark
+
+```
+pip install pyspark
+```
+
 ###### Tweet Extraction
 
 Tweet can be extraxted in the following order:
