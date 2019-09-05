@@ -15,6 +15,7 @@
 In this problem, set of tweets is to be extracted from the twitter database and then sentiment analysis is performed on it, in order to find polarity (positive, negative or neutral emotion) of the tweets. Finally, MapReduce is imlemented using Apache Spark to find out frequency of particular words.
 
 ###### Setup of Apache Spark:
+
 • We need to create a new EC2 instance with inbound port 8080, and 8081 enabled.
 • As Apache spark require java installation, we need to add java PPA to apt run, install Oracle as well as python.
 • After creating a server folder on the cloud, we can download Apache spark and unpack it.
